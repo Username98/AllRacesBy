@@ -52,3 +52,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio temporary files
+    .vs/
+    *.suo
+    *.user
+    *.sln.docstates
+    *.slnx.sqlite
+    VSWorkspaceState.json
