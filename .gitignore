@@ -60,3 +60,4 @@ nunit-*.xml
     *.sln.docstates
     *.slnx.sqlite
     VSWorkspaceState.json
+/.vs
