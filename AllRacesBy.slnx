@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AllRacesBy.Data/AllRacesBy.Data.csproj" Id="aa6c2cd2-d8ff-40b9-8bf8-0d4a75172641" />
+  <Project Path="AlLRacesBy.Web/AllRacesBy.Web.csproj" Id="45f29012-460d-442d-88e8-af273ec4c1ea">
+    <BuildDependency Project="AllRacesBy.Data/AllRacesBy.Data.csproj" />
+  </Project>
+</Solution>
